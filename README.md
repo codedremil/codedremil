@@ -10,3 +10,5 @@ Jeu d'échecs : https://github.com/codedremil/pygame-chess
 Jeu avec "tuiles" : https://github.com/codedremil/pygame-tile
 
 Jeu multijoueurs en réseau : https://github.com/codedremil/pygame-pictionary
+
+Jeu de type "casse-briques" en Dart+Flutter : https://github.com/codedremil/brick-breaker
