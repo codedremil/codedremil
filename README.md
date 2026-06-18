@@ -12,3 +12,5 @@ Jeu avec "tuiles" : https://github.com/codedremil/pygame-tile
 Jeu multijoueurs en réseau : https://github.com/codedremil/pygame-pictionary
 
 Jeu de type "casse-briques" en Dart+Flutter : https://github.com/codedremil/brick-breaker
+
+Copie du jeu "boxxle" sur Game Boy, en Dart+Flutter : https://github.com/codedremil/boxxle
